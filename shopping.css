@@ -43,8 +43,8 @@ button{ width: 269px;
         cursor: pointer;
 }
 
-button:hover{ opacity: 0.8;} 
-button:active{ opacity: 0.5;}
+button:hover{ opacity: .8;} 
+button:active{ opacity: .5;}
 
 .container-rigth{ display: inline-block;
                   position: absolute;
